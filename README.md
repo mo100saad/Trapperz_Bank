@@ -10,7 +10,7 @@ Administrative features are encapsulated within the AdminUser class, which secur
 The application is initiated through the Trapperz_Bank main class, which loads the WelcomeFrame as the entry point, inviting users to engage with the banking system. Trapperz Bank stands as a comprehensive demonstration of advanced Java programming and design patterns, enriched with a file-based data persistence mechanism to ensure a seamless and continuous banking experience.
 
 ## Run Locally
-
+- test
 - Extract the ZIP File: Unzip the downloaded project file to your desired location on your computer.
 - Install Java Development Kit (JDK): Ensure you have Java JDK installed on your machine. If not, download and install it from the official Oracle website or adopt OpenJDK.
 - Install NetBeans IDE: Download and install NetBeans IDE from the official website if you haven't already. NetBeans is required for running Java Swing projects.
